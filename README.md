@@ -1,0 +1,2 @@
+# ReadyPerfectly.AspNetCore
+ReadyPerfectly AspNetCore
